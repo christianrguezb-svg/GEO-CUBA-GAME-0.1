@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Dónde se encuentra el estadio de béisbol en activo más antiguo del mundo?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Dónde ocurrió el primer juego de béisbol documentado en la historia de Cuba?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Dónde se encuentra el estadio sede del equipo Industriales, conocido popularmente como \"El Coloso\"?",
+    "respuesta": { "lat": 23.101, "lng": -82.386, "provincia": "La Habana", "municipio": "Cerro" }
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Dónde ocurrió la inauguración del estadio donde Fidel Castro bateó la primera pelota en 1977?",
+    "respuesta": { "lat": 23.063, "lng": -81.558, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Dónde se encuentra el estadio \"Mártires de Barbados\", sede del equipo de béisbol de los Alazanes?",
+    "respuesta": { "lat": 20.379, "lng": -76.643, "provincia": "Granma", "municipio": "Bayamo" }
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Dónde ocurrió el primer juego de béisbol en una comunidad del oriente cubano, celebrado hace 100 años?",
+    "respuesta": { "lat": 21.178, "lng": -76.489, "provincia": "Holguín", "municipio": "Jesús Menéndez" }
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Dónde se encuentra el estadio José Ramón Cepero, sede del equipo de los Tigres?",
+    "respuesta": { "lat": 21.840, "lng": -78.762, "provincia": "Ciego de Ávila", "municipio": "Ciego de Ávila" }
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Dónde se encuentra el estadio Julio Antonio Mella, conocido como \"el bosque de los Leñadores\"?",
+    "respuesta": { "lat": 20.961, "lng": -76.951, "provincia": "Las Tunas", "municipio": "Las Tunas" }
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Dónde se encuentra el estadio Calixto García, que fue sede del Juego de las Estrellas del béisbol cubano en 2025?",
+    "respuesta": { "lat": 20.887, "lng": -76.263, "provincia": "Holguín", "municipio": "Holguín" }
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Dónde se encuentra el estadio Nguyen Van Troi, sede del equipo de los Indios?",
+    "respuesta": { "lat": 20.145, "lng": -75.208, "provincia": "Guantánamo", "municipio": "Guantánamo" }
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Dónde ocurrió el juego de las estrellas del béisbol cubano en el estadio José Ramón Cepero?",
+    "respuesta": { "lat": 21.840, "lng": -78.762, "provincia": "Ciego de Ávila", "municipio": "Ciego de Ávila" }
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Dónde se encuentra el Estadio 26 de Julio, sede del equipo de los Cazadores?",
+    "respuesta": { "lat": 22.813, "lng": -82.759, "provincia": "Artemisa", "municipio": "Artemisa" }
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Dónde se encuentra el Estadio Nelson Fernández, sede del equipo de los Huracanes?",
+    "respuesta": { "lat": 22.990, "lng": -82.151, "provincia": "Mayabeque", "municipio": "San José de las Lajas" }
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Dónde se encuentra el Estadio Raúl Torres Acosta, que fue sede de una Tribuna Abierta de la Revolución en 2001?",
+    "respuesta": { "lat": 22.468, "lng": -79.722, "provincia": "Villa Clara", "municipio": "Camajuaní" }
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Dónde se encuentra el Estadio Cándido González, sede de un equipo de la Liga Cubana de Béisbol?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Dónde se encuentra el Estadio Panamericano, epicentro del atletismo cubano?",
+    "respuesta": { "lat": 23.083, "lng": -82.371, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Dónde ocurrió el Memorial Jesús Molina de atletismo, que dejó dos récords nacionales en 2026?",
+    "respuesta": { "lat": 23.083, "lng": -82.371, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Dónde se encuentra la pista de atletismo José \"Pepe\" del Cabo, reinaugurada tras una extensa reparación?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Dónde se encuentra la única pista de atletismo de Cuba revestida con Polytan?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Dónde se encuentra la Pista Sintética Provincial de Atletismo?",
+    "respuesta": { "lat": 21.929, "lng": -79.442, "provincia": "Sancti Spíritus", "municipio": "Sancti Spíritus" }
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Dónde se encuentra la Pista de Atletismo Rosendo Brunet?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Dónde se encuentra la afamada Escuela Cubana de Boxeo Olvein Quesada?",
+    "respuesta": { "lat": 22.990, "lng": -82.432, "provincia": "La Habana", "municipio": "Wajay" }
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Dónde ocurrió el aniversario 54 de la fundación de la Escuela Cubana de Boxeo?",
+    "respuesta": { "lat": 22.990, "lng": -82.432, "provincia": "La Habana", "municipio": "Wajay" }
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Dónde se encuentra la Academia Provincial de Boxeo?",
+    "respuesta": { "lat": 20.379, "lng": -76.643, "provincia": "Granma", "municipio": "Bayamo" }
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Dónde se celebró el I Campeonato Nacional Femenino de Boxeo en Cuba?",
+    "respuesta": { "lat": 23.135, "lng": -82.358, "provincia": "La Habana", "municipio": "Habana Vieja" }
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Dónde se encuentra la Sala Polivalente Rafael Fortún Chacón, sede del Torneo Nacional de Boxeo Playa Girón 2025?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Dónde se encuentra la Sala Polivalente Rafael Castiello, sede del Torneo Nacional de Boxeo Playa Girón 2024?",
+    "respuesta": { "lat": 20.145, "lng": -75.208, "provincia": "Guantánamo", "municipio": "Guantánamo" }
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Dónde se encuentra el Centro Técnico Nacional de Ciclismo de Cuba?",
+    "respuesta": { "lat": 22.063, "lng": -80.409, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Dónde se encuentra el velódromo nacional Reinaldo Paseiro, sede de la Copa Cuba de ciclismo de pista?",
+    "respuesta": { "lat": 23.064, "lng": -82.379, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Dónde se encuentra el Estadio Pedro Marrero, sede habitual de la selección de fútbol de Cuba?",
+    "respuesta": { "lat": 23.091, "lng": -82.379, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Dónde se encuentra el estadio La Polar, el primer estadio de Cuba en contar con césped sintético?",
+    "respuesta": { "lat": 23.112, "lng": -82.385, "provincia": "La Habana", "municipio": "Plaza" }
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Dónde se encuentra la Academia Provincial de Fútbol?",
+    "respuesta": { "lat": 22.716, "lng": -83.056, "provincia": "Artemisa", "municipio": "San Cristóbal" }
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Dónde se encuentra el Estadio Antonio Maceo, certificado por la FIFA para partidos internacionales?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Dónde se encuentra el Estadio de Fútbol La Formadora?",
+    "respuesta": { "lat": 21.929, "lng": -79.442, "provincia": "Sancti Spíritus", "municipio": "Sancti Spíritus" }
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Dónde ocurrió el Campeonato Nacional de Voleibol masculino, disputado en la Sala Polivalente Alejandro Urgellés?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Dónde ocurrió el Norceca de voleibol de 2019, disputado en la Ciudad Deportiva?",
+    "respuesta": { "lat": 23.088, "lng": -82.379, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Dónde se encuentra el Complejo de Piscinas Baraguá, sede de los controles de la natación cubana?",
+    "respuesta": { "lat": 23.083, "lng": -82.339, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Dónde ocurrió el torneo Andrés Pérez in memoriam, donde se ratificó el talento de una ondina villaclareña?",
+    "respuesta": { "lat": 23.083, "lng": -82.339, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Dónde se encuentra la piscina olímpica del Ateneo Aurelio Janet, que fue sede de los Juegos del Alba?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Dónde se encuentra la Piscina Olímpica Solar, centro de entrenamiento del equipo nacional de natación?",
+    "respuesta": { "lat": 23.121, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Dónde ocurrió el Campeonato Nacional de Judo, acogido en el Gimnasio Deportivo Antonio Nores?",
+    "respuesta": { "lat": 23.045, "lng": -81.203, "provincia": "Matanzas", "municipio": "Cárdenas" }
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Dónde se encuentra el área de judo del Combinado Deportivo Eduardo García Lavandero, otrora Cuartel Viejo?",
+    "respuesta": { "lat": 21.929, "lng": -79.442, "provincia": "Sancti Spíritus", "municipio": "Sancti Spíritus" }
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Dónde se concentrarán los quintetos femeninos de baloncesto?",
+    "respuesta": { "lat": 22.417, "lng": -83.696, "provincia": "Pinar del Río", "municipio": "Pinar del Río" }
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Dónde se encuentra la sala Ramón Fonst, sede de los partidos de la Liga Superior de Baloncesto?",
+    "respuesta": { "lat": 23.088, "lng": -82.379, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Dónde se encuentra el tabloncillo de la EIDE Julio Díaz, que será sede del baloncesto masculino en los Juegos Escolares Nacionales?",
+    "respuesta": { "lat": 22.813, "lng": -82.759, "provincia": "Artemisa", "municipio": "Artemisa" }
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Dónde ocurrió la X Edición del Triatlón, con centro de información en la Marina Hemingway?",
+    "respuesta": { "lat": 23.075, "lng": -82.458, "provincia": "La Habana", "municipio": "Santa Fé" }
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Dónde ocurrió el Gran Retto 2026, que consolidó a una playa cubana como capital de aguas abiertas?",
+    "respuesta": { "lat": 23.156, "lng": -81.251, "provincia": "Matanzas", "municipio": "Varadero" }
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Dónde se encuentra el Estadio Guillermón Moncada, sede del equipo de las Avispas?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Dónde se encuentra el Estadio Capitán San Luis, sede del equipo de béisbol de los Vegueros?",
+    "respuesta": { "lat": 22.417, "lng": -83.696, "provincia": "Pinar del Río", "municipio": "Pinar del Río" }
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Dónde se encuentra el Estadio Augusto César Sandino, sede del equipo de béisbol de los Naranjas?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  }
+]

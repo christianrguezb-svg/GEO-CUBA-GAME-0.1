@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Dónde se encuentra la sede central del Banco Central de Cuba?",
+    "respuesta": { "lat": 23.137, "lng": -82.355, "provincia": "La Habana", "municipio": "Habana Vieja" }
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Dónde se encuentra la sede del Banco Financiero Internacional?",
+    "respuesta": { "lat": 23.112, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Dónde se encuentra la Oficina Central del Banco de Crédito y Comercio (BANDEC)?",
+    "respuesta": { "lat": 23.113, "lng": -82.380, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Dónde radica la Dirección Provincial del BANDEC en Camagüey?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Dónde se encuentra la sede central de la empresa Trimagen S.A.?",
+    "respuesta": { "lat": 23.108, "lng": -82.386, "provincia": "La Habana", "municipio": "Cerro" }
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Dónde se encuentra la sede del Grupo Empresarial INNOMAX?",
+    "respuesta": { "lat": 23.115, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Dónde se encuentra la sede del Centro de Ingeniería Genética y Biotecnología (CIGB)?",
+    "respuesta": { "lat": 23.083, "lng": -82.454, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Dónde se encuentra la sede de la Corporación Cuba Ron, S.A.?",
+    "respuesta": { "lat": 23.113, "lng": -82.480, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Dónde se encuentra la sede del Grupo de Turismo Gaviota S.A.?",
+    "respuesta": { "lat": 23.138, "lng": -82.350, "provincia": "La Habana", "municipio": "Habana Vieja" }
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Dónde se encuentra la Oficina Central de Gaviota Tours S.A.?",
+    "respuesta": { "lat": 23.108, "lng": -82.419, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Provincial de Turismo de Ciudad Santa María?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Dónde se encuentra la sede de la Zona Franca Berroa?",
+    "respuesta": { "lat": 23.156, "lng": -82.278, "provincia": "La Habana", "municipio": "Habana del Este" }
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Dónde se encuentra la Zona Especial de Desarrollo Mariel (ZEDM)?",
+    "respuesta": { "lat": 22.995, "lng": -82.750, "provincia": "Artemisa", "municipio": "Mariel" }
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa mixta Proxcor S.A.?",
+    "respuesta": { "lat": 22.521, "lng": -79.466, "provincia": "Villa Clara", "municipio": "Caibarién" }
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Dónde se encuentra la Empresa Comandante Pedro Sotto Alba, dedicada a la producción de níquel y cobalto?",
+    "respuesta": { "lat": 20.656, "lng": -74.940, "provincia": "Holguín", "municipio": "Moa" }
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa mixta cubano-eslovaca para la industria del chocolate?",
+    "respuesta": { "lat": 20.348, "lng": -74.496, "provincia": "Guantánamo", "municipio": "Baracoa" }
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Mixta Internacional Cubana del Tabaco, S.A.?",
+    "respuesta": { "lat": 23.075, "lng": -82.395, "provincia": "La Habana", "municipio": "Boyeros" }
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa mixta Cementos Cienfuegos S.A.?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Agropecuaria La Cuba?",
+    "respuesta": { "lat": 21.680, "lng": -78.630, "provincia": "Ciego de Ávila", "municipio": "Baraguá" }
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Agropecuaria Vladimir Ilich Lenin?",
+    "respuesta": { "lat": 22.806, "lng": -81.192, "provincia": "Matanzas", "municipio": "Jovellanos" }
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Agropecuaria y Cítrico Sola?",
+    "respuesta": { "lat": 21.630, "lng": -77.770, "provincia": "Camagüey", "municipio": "Sierra de Cubitas" }
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Provincial de Transporte de Santiago de Cuba?",
+    "respuesta": { "lat": 19.995, "lng": -75.820, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Provincial Constructora de Holguín (DOMUS)?",
+    "respuesta": { "lat": 20.887, "lng": -76.263, "provincia": "Holguín", "municipio": "Holguín" }
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa de Servicios de Computación, Comunicaciones y Electrónica del Níquel (Serconi)?",
+    "respuesta": { "lat": 20.656, "lng": -74.940, "provincia": "Holguín", "municipio": "Moa" }
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Dónde se encuentra la sede de la Unión Eléctrica de Cuba?",
+    "respuesta": { "lat": 23.135, "lng": -82.375, "provincia": "La Habana", "municipio": "Centro Habana" }
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa de Perforación y Extracción de Petróleo de Occidente?",
+    "respuesta": { "lat": 23.156, "lng": -81.925, "provincia": "Mayabeque", "municipio": "Santa Cruz del Norte" }
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Eléctrica de Matanzas?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Eléctrica de Villa Clara?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Eléctrica de Las Tunas?",
+    "respuesta": { "lat": 20.961, "lng": -76.951, "provincia": "Las Tunas", "municipio": "Las Tunas" }
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa de Gases Industriales?",
+    "respuesta": { "lat": 23.125, "lng": -82.301, "provincia": "La Habana", "municipio": "Guanabacoa" }
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa de Productos Lácteos de Santiago de Cuba?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa Industria Elyanah S.U.R.L.?",
+    "respuesta": { "lat": 22.927, "lng": -82.388, "provincia": "Mayabeque", "municipio": "Bejucal" }
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa FIALLO TRANSPORTE?",
+    "respuesta": { "lat": 22.775, "lng": -81.860, "provincia": "Mayabeque", "municipio": "San Nicolás de Bari" }
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa GABYCARR TRANSPORTES S.U.R.L.?",
+    "respuesta": { "lat": 23.112, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa Constructora WALCOTT S.U.R.L.?",
+    "respuesta": { "lat": 23.112, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Dónde se encuentra la sede de la Sociedad Multiservicios ATLAS S.R.L.?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa Constructora Gamez y Asociados S.R.L.?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa RTV Comercial?",
+    "respuesta": { "lat": 23.135, "lng": -82.390, "provincia": "La Habana", "municipio": "Plaza de la Revolución" }
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa MERCADIS S.U.R.L.?",
+    "respuesta": { "lat": 21.840, "lng": -78.762, "provincia": "Ciego de Ávila", "municipio": "Ciego de Ávila" }
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Dónde se encuentra la sede de la Cooperativa No Agropecuaria La Esperanza?",
+    "respuesta": { "lat": 22.103, "lng": -79.720, "provincia": "Sancti Spíritus", "municipio": "Fomento" }
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Dónde se encuentra la sede de la Cooperativa No Agropecuaria Decorarte?",
+    "respuesta": { "lat": 23.156, "lng": -81.251, "provincia": "Matanzas", "municipio": "Varadero" }
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Dónde se encuentra la sede de la Cooperativa No Agropecuaria La Popular?",
+    "respuesta": { "lat": 20.887, "lng": -76.263, "provincia": "Holguín", "municipio": "Holguín" }
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Dónde se encuentra la sede de la Mipyme estatal Diseño e Ingeniería Mayabeque (Dimay)?",
+    "respuesta": { "lat": 22.836, "lng": -82.028, "provincia": "Mayabeque", "municipio": "Güines" }
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Dónde se encuentra la sede de la Mipyme Dofleini?",
+    "respuesta": { "lat": 23.112, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa mixta del sector de la Construcción?",
+    "respuesta": { "lat": 23.113, "lng": -82.380, "provincia": "La Habana", "municipio": "La Habana" }
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Dónde se encuentra la sede de la Compañía Turística Habaguanex S.A.?",
+    "respuesta": { "lat": 23.135, "lng": -82.355, "provincia": "La Habana", "municipio": "Habana Vieja" }
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Dónde se encuentra la sede de la empresa Cubagole S.A.?",
+    "respuesta": { "lat": 23.112, "lng": -82.425, "provincia": "La Habana", "municipio": "Playa" }
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Dónde se encuentra la sede de la Agencia de Viajes Paradiso?",
+    "respuesta": { "lat": 22.417, "lng": -83.696, "provincia": "Pinar del Río", "municipio": "Pinar del Río" }
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Provincial de Abastecimiento y Servicios a la Educación de Pinar del Río?",
+    "respuesta": { "lat": 22.417, "lng": -83.696, "provincia": "Pinar del Río", "municipio": "Pinar del Río" }
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Dónde se encuentra la sede de la Empresa Provincial de Construcción y Mantenimiento Constructivo de Santiago de Cuba?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  }
+]

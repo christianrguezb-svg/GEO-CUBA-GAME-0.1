@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Dónde se fundó la primera villa de Cuba, Nuestra Señora de la Asunción de Baracoa?",
+    "respuesta": { "lat": 20.348, "lng": -74.496, "provincia": "Guantánamo", "municipio": "Baracoa" }
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Dónde se inició la Guerra de los Diez Años el 10 de octubre de 1868?",
+    "respuesta": { "lat": 20.137, "lng": -77.365, "provincia": "Granma", "municipio": "Manzanillo" }
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Dónde cayó en combate José Martí el 19 de mayo de 1895?",
+    "respuesta": { "lat": 20.283, "lng": -76.752, "provincia": "Granma", "municipio": "Jiguaní" }
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Dónde nació Fidel Castro Ruz?",
+    "respuesta": { "lat": 20.548, "lng": -75.767, "provincia": "Holguín", "municipio": "Mayarí" }
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Dónde se firmó la primera Constitución de la República de Cuba en Armas en 1869?",
+    "respuesta": { "lat": 21.217, "lng": -77.467, "provincia": "Camagüey", "municipio": "Guáimaro" }
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Dónde se libró la Batalla de Santa Clara en diciembre de 1958?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Dónde se encuentra el Castillo de San Pedro de la Roca del Morro?",
+    "respuesta": { "lat": 19.969, "lng": -75.870, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Dónde nació Antonio Maceo?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Dónde se encuentra el Valle de Viñales, Patrimonio Mundial?",
+    "respuesta": { "lat": 22.618, "lng": -83.706, "provincia": "Pinar del Río", "municipio": "Viñales" }
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Dónde nació Carlos Manuel de Céspedes?",
+    "respuesta": { "lat": 20.379, "lng": -76.643, "provincia": "Granma", "municipio": "Bayamo" }
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Dónde se encuentra el Cementerio de Santa Ifigenia, donde reposan los restos de José Martí?",
+    "respuesta": { "lat": 20.031, "lng": -75.836, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Dónde se encuentra el Centro Histórico Urbano de Camagüey, Patrimonio Mundial?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Dónde se encuentra el Centro Histórico Urbano de Cienfuegos, Patrimonio Mundial?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Dónde se encuentra el Parque Nacional Alejandro de Humboldt, Patrimonio Mundial?",
+    "respuesta": { "lat": 20.483, "lng": -74.783, "provincia": "Holguín", "municipio": "Moa" }
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Dónde nació Frank País?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Dónde nació Camilo Cienfuegos?",
+    "respuesta": { "lat": 23.135, "lng": -82.375, "provincia": "Ciudad de La Habana", "municipio": "Centro Habana" }
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Dónde nació Ignacio Agramonte?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Dónde nació Calixto García?",
+    "respuesta": { "lat": 20.887, "lng": -76.263, "provincia": "Holguín", "municipio": "Holguín" }
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Dónde nació Serafín Sánchez?",
+    "respuesta": { "lat": 21.929, "lng": -79.442, "provincia": "Sancti Spíritus", "municipio": "Sancti Spíritus" }
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Dónde se encuentra el Castillo de San Salvador de la Punta?",
+    "respuesta": { "lat": 23.143, "lng": -82.358, "provincia": "Ciudad de La Habana", "municipio": "La Habana Vieja" }
+  }
+]

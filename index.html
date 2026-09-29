@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Geo Cuba - Juego de Geografía</title>
+  <link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="puntos-panel" style="display:none;">
+    <div class="puntos-label">PUNTOS</div>
+    <div class="puntos-valor" id="puntos-valor">0</div>
+    <div class="puntos-historial" id="puntos-historial"></div>
+  </div>
+
+  <div id="top-bar" style="display:none;">
+    <button id="btn-atras" class="btn-glass">← Atrás</button>
+    <button id="btn-estilo" class="btn-glass">Cambiar vista</button>
+    <button id="btn-musica" class="btn-glass">🔇 Música</button>
+  </div>
+
+  <div id="menu-principal">
+    <a id="credito-creador" href="https://www.instagram.com/chisrbb/" target="_blank" rel="noopener noreferrer">
+      ✦ Creado Por: <strong>Christian</strong> ✦
+    </a>
+
+    <div id="menu-card">
+      <h1>Geo Cuba</h1>
+      <p class="subtitulo">Elige una categoría</p>
+      <button class="btn-categoria" data-categoria="historia">
+        <span class="icono">🏛️</span>
+        <span class="texto">
+          <strong>Historia</strong>
+          <small>Villas, batallas y personajes</small>
+        </span>
+      </button>
+      <button class="btn-categoria" data-categoria="urbano">
+        <span class="icono">🎤</span>
+        <span class="texto">
+          <strong>Urbano</strong>
+          <small>Reguetón, reparto y conciertos</small>
+        </span>
+      </button>
+      <button class="btn-categoria" data-categoria="deporte">
+        <span class="icono">⚾</span>
+        <span class="texto">
+          <strong>Deporte</strong>
+          <small>Estadios, atletas y competiciones</small>
+        </span>
+      </button>
+      <button class="btn-categoria" data-categoria="finanzas">
+        <span class="icono">💰</span>
+        <span class="texto">
+          <strong>Finanzas y Empresas</strong>
+          <small>Bancos, empresas y negocios</small>
+        </span>
+      </button>
+    </div>
+  </div>
+
+  <div id="pregunta-container" style="display:none;">
+    <p id="pregunta-texto">Cargando pregunta...</p>
+    <button id="btn-siguiente" disabled>Siguiente</button>
+  </div>
+
+  <div id="resultado-overlay" style="display:none;">
+    <div id="resultado-card">
+      <div class="resultado-top">
+        <div class="resultado-trophy" id="resultado-trophy">🏆</div>
+        <h2>Geo Cuba</h2>
+        <p class="categoria" id="resultado-categoria">Historia</p>
+      </div>
+      <div class="resultado-score">
+        <span id="resultado-puntos">0</span>
+        <span class="de">/</span>
+        <span id="resultado-max">25000</span>
+      </div>
+      <div class="resultado-precision" id="resultado-precision">0% precisión</div>
+      <div class="resultado-estadisticas">
+        <div class="stat">
+          <span class="stat-num stat-acierto" id="stat-acertadas">0</span>
+          <span class="stat-label">Acertadas</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num stat-fallo" id="stat-falladas">0</span>
+          <span class="stat-label">Falladas</span>
+        </div>
+      </div>
+      <div class="resumen-lista" id="resumen-lista"></div>
+      <div class="resultado-footer">
+        <span class="footer-brand">🗺️ Geo Cuba</span>
+        <span class="footer-fecha" id="resultado-fecha"></span>
+      </div>
+      <div class="resultado-acciones">
+        <button id="btn-compartir">✦ Compartir ✦</button>
+        <button id="btn-descargar">⬇ Descargar</button>
+      </div>
+      <button id="btn-volver-menu">Volver al menú</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

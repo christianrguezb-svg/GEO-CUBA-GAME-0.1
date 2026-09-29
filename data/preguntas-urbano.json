@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Dónde nació Jacob Forever, conocido como \"El Inmortal\"?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Dónde nació Chocolate MC, autodenominado \"El Rey del Reparto\"?",
+    "respuesta": { "lat": 23.135, "lng": -82.375, "provincia": "Ciudad de La Habana", "municipio": "Centro Habana" }
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Dónde nació el cantante Osmani García, conocido como \"La Voz\"?",
+    "respuesta": { "lat": 23.125, "lng": -82.301, "provincia": "Ciudad de La Habana", "municipio": "Guanabacoa" }
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Dónde nació El Chacal, uno de los líderes del movimiento urbano cubano?",
+    "respuesta": { "lat": 23.078, "lng": -82.424, "provincia": "Ciudad de La Habana", "municipio": "Marianao" }
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Dónde nació el cantante Eddy K, pionero del Cubatón?",
+    "respuesta": { "lat": 23.078, "lng": -82.424, "provincia": "Ciudad de La Habana", "municipio": "Marianao" }
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Dónde nació Baby Lores, integrante de Clan 537?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Dónde nació el reguetonero Candyman?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Dónde nació El Uniko, cantante de música urbana?",
+    "respuesta": { "lat": 23.135, "lng": -82.375, "provincia": "Ciudad de La Habana", "municipio": "Centro Habana" }
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Dónde nació Wampi, uno de los exponentes del reparto?",
+    "respuesta": { "lat": 23.041, "lng": -82.378, "provincia": "Ciudad de La Habana", "municipio": "Arroyo Naranjo" }
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Dónde nació El Kamel, pionero del movimiento reparto?",
+    "respuesta": { "lat": 23.136, "lng": -82.355, "provincia": "Ciudad de La Habana", "municipio": "La Habana Vieja" }
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Dónde nació Dany Ome, exponente del reparto cubano?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Dónde nació Kevincito El 13, del dúo con Dany Ome?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Dónde nació Frank El Duro, cantante de reparto y reguetón?",
+    "respuesta": { "lat": 20.961, "lng": -76.951, "provincia": "Las Tunas", "municipio": "Las Tunas" }
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Dónde se presentaron Dany Ome y Kevincito El 13 como parte de las festividades del 26 de Julio en 2025?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Dónde se celebró el concierto de Gente de Zona que superó expectativas en enero de 2025?",
+    "respuesta": { "lat": 22.407, "lng": -79.965, "provincia": "Villa Clara", "municipio": "Santa Clara" }
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Dónde se celebró el Festival Assokere Güines en diciembre de 2025, con noche de hip hop y reguetón?",
+    "respuesta": { "lat": 22.836, "lng": -82.028, "provincia": "Mayabeque", "municipio": "Güines" }
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Dónde se celebró el Festival Piña Colada 2025, que incluyó una noche de música urbana?",
+    "respuesta": { "lat": 21.840, "lng": -78.762, "provincia": "Ciego de Ávila", "municipio": "Ciego de Ávila" }
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Dónde tuvo lugar el quinto Festival Atenas Fusión en diciembre de 2025?",
+    "respuesta": { "lat": 23.041, "lng": -81.578, "provincia": "Matanzas", "municipio": "Matanzas" }
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Dónde se presentó Ja Rulay en concierto como parte de su gira por Cuba en 2024?",
+    "respuesta": { "lat": 20.887, "lng": -76.263, "provincia": "Holguín", "municipio": "Holguín" }
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Dónde se presentó Gente de Zona en Santiago de Cuba?",
+    "respuesta": { "lat": 20.024, "lng": -75.821, "provincia": "Santiago de Cuba", "municipio": "Santiago de Cuba" }
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Dónde se presentó Baby Lores en concierto en 2025?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Dónde se presentaron Dany Ome y Kevincito El 13 en julio de 2025?",
+    "respuesta": { "lat": 22.813, "lng": -82.759, "provincia": "Artemisa", "municipio": "Artemisa" }
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Dónde se presentó Juan Guillermo Almeida para cerrar las festividades de verano en 2025?",
+    "respuesta": { "lat": 22.927, "lng": -82.388, "provincia": "Mayabeque", "municipio": "Bejucal" }
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Dónde se realizó el concierto de Gente de Zona en Camagüey en 2025?",
+    "respuesta": { "lat": 21.379, "lng": -77.919, "provincia": "Camagüey", "municipio": "Camagüey" }
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Dónde se presentó el grupo Los 4 en concierto en mayo de 2025?",
+    "respuesta": { "lat": 21.840, "lng": -78.762, "provincia": "Ciego de Ávila", "municipio": "Ciego de Ávila" }
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Dónde ofreció Bebeshito un concierto multitudinario en 2024?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Dónde se presentó Charly & Johayron durante su gira por Cuba en 2024?",
+    "respuesta": { "lat": 22.146, "lng": -80.453, "provincia": "Cienfuegos", "municipio": "Cienfuegos" }
+  }
+]
